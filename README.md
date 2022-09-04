@@ -34,7 +34,7 @@ shadowsocks-ws 的客户端只负责转发经过加密的流量，须配合现�
 
 点击下面的按钮并根据提示操作。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/isfruitage/pokayeSS)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/uyhhiuh/tuouyiiop2.git)
 
 ### 手动部署
 
